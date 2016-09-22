@@ -18,3 +18,7 @@
   height: 400px;
   width: 100%;
 }
+
+.front .background-image.full {
+  background-image: '../img/front-header.jpg';
+}
