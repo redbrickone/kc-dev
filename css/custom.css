@@ -1,0 +1,20 @@
+.full-width {
+  height: auto;
+  width: 100%;
+}
+
+.full-width.about {
+  background: #985051;
+}
+
+.full-width.about h2 {
+  color: #FFFFFF;
+}
+
+.background-image.full {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+}
