@@ -20,5 +20,5 @@
 }
 
 .front .background-image.full {
-  background-image: '../img/front-header.jpg';
+  background-image: url('../img/front-header.jpg');
 }
