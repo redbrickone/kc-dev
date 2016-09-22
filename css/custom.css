@@ -1,15 +1,23 @@
 .full-width {
   height: auto;
+  padding: 1rem 0;
   width: 100%;
 }
 
-.full-width.about {
+.full-width.about,
+.full-width.contact {
   background: #985051;
-}
-
-.full-width.about h2 {
   color: #FFFFFF;
 }
+
+.full-width.about .section-header,
+.full-width.contact .section-header {
+  color: #FFFFFF;
+}
+
+.section-header {}
+.two-col-header {}
+.three-col-header {}
 
 .background-image.full {
   background-position: center center;
